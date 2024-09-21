@@ -1,8 +1,6 @@
 ---
-title: 'CCOO-Galeo'
+title: 'Hola 👋'
 date: 2024-09-21T15:14:39+10:00
 ---
 
-## Página de información de CCOO en Galeo
-
-Contenido de la home
+Esta es la página de información de CCOO en Galeo

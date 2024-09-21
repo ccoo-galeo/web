@@ -1,5 +1,5 @@
 ---
-title: 'Hola 👋'
+title: 'Info'
 date: 2024-09-21T15:14:39+10:00
 weight: 1
 ---

@@ -34,14 +34,14 @@ summaryLength = 80
     meta_og_type = "website"
     meta_og_url = "https://hugo-whisper.netlify.app"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
-    meta_og_description = "Hugo Whisper is a documentation theme built with Hugo."
+    meta_og_description = "Página de información de CCOO para Galeo"
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@ccoogaleo"
+    meta_twitter_creator = "@ccoogaleo"
 
   [params.logo]
       mobile = "https://ccoo-galeo.github.io/web/images/logo/logo.png"
       standard  = "https://ccoo-galeo.github.io/web/images/logo/logo.png"
 
   [params.footer]
-    copyright_text = 'CCOO-Galeo'
+    copyright_text = 'Hecho con 💖 por tus compas de CCOO'
