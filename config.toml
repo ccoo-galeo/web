@@ -22,7 +22,7 @@ summaryLength = 80
     weight = 2
 
 [params]
-  homepage_button_link = '/info/'
+  homepage_button_link = 'info/'
   homepage_button_text = 'Más información'
 
   ## You can enable to add anchor links to header elements
