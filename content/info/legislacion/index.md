@@ -11,7 +11,7 @@ Recopilación de enlaces a documentos, reglamentos, normativas, etc. que te afec
 
 Si ves que falta algo, hay algún enlace roto o la información está desactualizada, por favor, háznoslo saber.
 
-- [Estatuto de los trabajadores](https://www.boe.es/biblioteca_juridica/abrir_pdf.php?id=PUB-DT-2024-139): es la norma de máximo rango que regula las relaciones laborales en España. Su última actualización fue en 2024.
+- [Estatuto de los Trabajadores](https://www.boe.es/biblioteca_juridica/abrir_pdf.php?id=PUB-DT-2024-139): es la norma de máximo rango que regula las relaciones laborales en España. Su última actualización fue en 2024.
 - [Convenio colectivo estatal de empresas de consultoría](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-17238): es el convenio actual de Galeo. La útima versión publicada es la número XVIII, en 2023.
 - [Ley de Libertad Sindical](https://www.boe.es/buscar/act.php?id=BOE-A-1985-16660): Es la ley que regula la actividad sindical, junto con el Estatuto de los Trabajadores.
 - [Reglamento de elecciones sindicales](https://www.boe.es/buscar/act.php?id=BOE-A-1994-20236): Regula las elecciones a órganos de representación de los trabajadores en la empresa.
