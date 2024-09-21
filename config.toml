@@ -1,0 +1,47 @@
+baseURL = "/"
+theme = "hugo-whisper-theme"
+languageCode = "es"
+title = "CCOO-Galeo"
+
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+
+# Controls how many words are printed in the content summary on the docs homepage.
+# See https://gohugo.io/content-management/summaries/
+summaryLength = 80
+
+[[menu.main]]
+    name = "Info"
+    url = "/info/"
+    weight = 2
+
+[params]
+  homepage_button_link = '/info'
+  homepage_button_text = 'Más información'
+
+  ## You can enable to add anchor links to header elements
+  # enable_anchor_link = true
+
+  [params.homepage_meta_tags]
+    meta_description = "Lorem ipsum meta description."
+    meta_og_title = "CCOO-Galeo"
+    meta_og_type = "website"
+    meta_og_url = "https://hugo-whisper.netlify.app"
+    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
+    meta_og_description = "Hugo Whisper is a documentation theme built with Hugo."
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@zerostaticio"
+    meta_twitter_creator = "@zerostaticio"
+
+  [params.logo]
+      mobile = "/images/logo/logo.png"
+      standard  = "/images/logo/logo.png"
+
+  [params.footer]
+    copyright_text = 'CCOO-Galeo'
