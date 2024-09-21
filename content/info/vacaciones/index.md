@@ -25,12 +25,12 @@ Resumimos aquí los puntos claves de la legislación, pero **te recomendamos que
 
 ### Permisos retribuídos
 
-- **15 días** naturales en caso de matrimonio (Art 37 ET).
-- **5 días** laborables por accidente, enfermedad graves, hospitalización o intervención quirúrgica de tu pareja, familiares cercanos o convivientes que requieran cuidado (Art 37 ET).
-- **2 días** por fallecimiento de tu pareja o parientes cercanos, **más 2 días** si necesitas desplazamiento (Art 37 ET).
-- **1 día** por mudanza (Art 37 ET).
-- El tiempo necesario para votar en elecciones (Art 37 ET).
-- El tiempo necesario para exámenes prenatales, preparaciones al parto, etc (Art 37 ET).
+- **Matrimonio**: 15 días (Art 37 ET).
+- **Mudanza**: 1 día (Art 37 ET).
+- **Accidente/enfermedad de familiar**: 5 días laborables por accidente, enfermedad graves, hospitalización o intervención quirúrgica de tu pareja, familiares cercanos o convivientes que requieran cuidado (Art 37 ET).
+- **Fallecimiento**: 2 días por fallecimiento de tu pareja o parientes cercanos, **más 2 días** si necesitas desplazamiento (Art 37 ET).
+- **Exámenes prenatales, preparaciones al parto, etc**: el tiempo necesario (Art 37 ET).
+- **Elecciones**: el tiempo necesario (Art 37 ET).
 
 ### Permisos no retribuídos
 
