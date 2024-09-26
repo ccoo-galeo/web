@@ -9,7 +9,7 @@ Acuerdos y legislación que te afectan sobre tus vacaciones, permisos y descanso
 
 <!--more-->
 
-El procedimiento para solicitar vacaciones y permisos lo tienes recogido en la [página de personal de Galeo](https://people.galeo.tech/), y la legislación que lo regula viene recogida en el [Estatuto de los Trabajadores y el convenio](/info/legislacion).
+El procedimiento para solicitar vacaciones y permisos lo tienes recogido en la [página de personal de Galeo](https://people.galeo.tech/), y la legislación que lo regula viene recogida en el [Estatuto de los Trabajadores y el convenio](/web/info/legislacion).
 
 Resumimos aquí los puntos claves de la legislación, pero **te recomendamos que le eches un ojo con detenimiento y que nos consultes si tienes alguna duda**.
 
