@@ -1,6 +1,6 @@
 ---
 title: 'Legislación 📚'
-date: 2019-02-11T19:27:37+10:00
+date: 2024-09-19T19:27:37+10:00
 weight: 100
 summary: Documentos y normativas que te afectan como trabajador.
 ---

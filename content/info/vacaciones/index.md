@@ -1,7 +1,7 @@
 ---
 title: 'Vacaciones y permisos 🌴'
-date: 2019-02-11T19:27:37+10:00
-weight: 10
+date: 2024-09-19T19:27:37+10:00
+weight: 20
 summary: Cosas a tener en cuenta sobre tus vacaciones y permisos.
 ---
 
