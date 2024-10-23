@@ -7,7 +7,7 @@ Somos los compañeros de la **candidatura de CCOO en Galeo**.
 
 Nuestro objetivo es defender tus intereses y mejorar tus condiciones laborales, y para eso disponemos del apoyo de [Comisiones Obreras (CCOO)](https://www.ccoo.es/) y de su equipo de asesoramiento sindical, jurídico y técnico, que estará siempre a tu disposición: una red de **320 abogados y 190 centros repartidos por el país**.
 
-Los principales puntos donde podemos ayudarte ([pero no los únicos](/nosotros/)) son:
+Algunos temas con los que podemos ayudarte ([pero no los únicos](/nosotros/)) son:
 
 <div style="text-align: left;">
   <p style="margin-bottom: 15px;">
