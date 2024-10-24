@@ -98,26 +98,31 @@ h1 {
 h2 {
   @extend %heading;
   @include font-size($h2-font-size);
+  margin-top: 12px;
 }
 
 h3 {
   @extend %heading;
   @include font-size($h3-font-size);
+  margin-top: 12px;
 }
 
 h4 {
   @extend %heading;
   @include font-size($h4-font-size);
+  margin-top: 12px;
 }
 
 h5 {
   @extend %heading;
   @include font-size($h5-font-size);
+  margin-top: 12px;
 }
 
 h6 {
   @extend %heading;
   @include font-size($h6-font-size);
+  margin-top: 12px;
 }
 
 

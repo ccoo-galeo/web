@@ -7,23 +7,16 @@ summary: Herramientas online para obtener información.
 
 Recopilación de enlaces a herramientas que te pueden ser útiles como trabajador/a de Galeo.
 
-<!--more-->
+#### Galeo
 
-Si ves que falta algo, hay algún enlace roto o la información está desactualizada, por favor, háznoslo saber.
+- [Portal de empleados](https://people.galeo.tech/)
 
-## Galeo
-
-- [Formulario de referidos](https://wkf.ms/3W1xhem): Formulario para referir a un candidato y poder optar al bono extra si finalmente es contratado.
-- [Petición de vacaciones](https://wkf.ms/3XlZX2g): Formulario para solicitar vacaciones y días libres en Galeo.
-- [Planificación de viajes](https://galeo.travelperk.com/): Organización de tus viajes de negocios en Galeo vía TravelPerk.
-- [Reintegro de gastos](https://wkf.ms/3ZjB9dv): Formulario para solicitar la devolución de gastos correspondientes a viajes y/o reuniones de Galeo.
-
-## Información general
+#### Información general
 
 - [Portal de CCOO-Servicios](https://www.ccoo-servicios.es/): Portal de la federación Servicios de COmisiones Obreras, con documentación, noticias y enlaces de interés.
 - [Guía explicativa de la nómina](https://www.ccoo-servicios.es/archivos/bs/guiabasicanomina_.pdf): Guía de CCOO para entender tu nómina y los importes que en ella figuran
 
-## Calculadoras
+#### Calculadoras
 
 - [Calculadora sueldo neto](https://cincodias.elpais.com/herramientas/calculadora-sueldo-neto/): Calculadora de Cinco Días para determinar cuál debe ser tu sueldo neto y las contribuciones al IRPF y SS en base a tu salario bruto anual.
 - [Calculadora IRPF](https://cincodias.elpais.com/herramientas/calculadora-irpf/): Calculadora de Cinco Días para determinar cuál debe ser tu IRPF anual (más preciso que la anterior ya que tiene en cuenta tu Comunidad Autónoma).
@@ -33,3 +26,5 @@ Si ves que falta algo, hay algún enlace roto o la información está desactuali
 - [Calculadora de indemnización por despido](https://www.poderjudicial.es/cgpj/es/Servicios/Utilidades/Calculo-de-indemnizaciones-por-extincion-de-contrato-de-trabajo/): Calculadora del CGPJ para calcular tu posible indemización por despido.
 - [Simulador de la Declaración de la Renta](https://www2.agenciatributaria.gob.es/wlpl/PARE-RW22/OPEN/index.zul?TACCESO=COLAB&EJER=2022): Puedes simular tu Declaración de la Renta en la página oficial de al AEAT.
 - [Calculadora del paro](https://sede.sepe.gob.es/dgsimulador/introSimulador.do): Calculadora del SEPE para saber a qué prestación por desempleo podrías acceder.
+
+<!--more-->

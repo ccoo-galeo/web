@@ -134,3 +134,15 @@
     height: auto;
   }
 }
+
+.summary {
+  ul {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    list-style-type: disc;
+    li {
+      margin-bottom: 5px;
+      margin-left: 20px;
+    }
+  }
+}
