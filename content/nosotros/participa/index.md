@@ -40,7 +40,7 @@ Puedes participar de múltiples maneras, aquí te presentamos las principales:
 
 - La representación de los trabajadores en Galeo ha de crear comisiones temáticas, como las de igualdad, salud y seguridad laboral, o discriminación. Puedes ofrecerte para colaborar en alguna de estas áreas, según tu interés o experiencia.
 
-#### 📌 Únete con nostros
+#### 📌 Únete a nostros
 
 - Si te encaja todo lo que hacemos y quieres dar un paso más allá, puedes unirte a nosotros. No es necesario estar afiliado a CCOO, y estaremos encantados de contar contigo.
 

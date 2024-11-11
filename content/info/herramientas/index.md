@@ -14,7 +14,7 @@ Recopilación de enlaces a herramientas que te pueden ser útiles como trabajado
 
 #### Información general
 
-- [Portal de CCOO-Servicios](https://www.ccoo-servicios.es/): Portal de la federación Servicios de COmisiones Obreras, con documentación, noticias y enlaces de interés.
+- [Portal de CCOO-Servicios](https://www.ccoo-servicios.es/): Portal de la federación Servicios de Comisiones Obreras, con documentación, noticias y enlaces de interés.
 - [Guía explicativa de la nómina](https://www.ccoo-servicios.es/archivos/bs/guiabasicanomina_.pdf): Guía de CCOO para entender tu nómina y los importes que en ella figuran
 
 #### Calculadoras
@@ -25,7 +25,7 @@ Recopilación de enlaces a herramientas que te pueden ser útiles como trabajado
 - [Simulador de jubilación](https://sede-tu.seg-social.gob.es/wps/portal/tussR/tuss/Login/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_QwdXQ09gg0C3EO8nA0CPbzMQr2dPQ2NAk31wwkpiAJKG-AAjgZA_VFgJThMCDYzgyrAY0ZBboRBpqOiIgCNEBoU/dz/d5/L2dBISEvZ0FBIS9nQSEh/): Simulador de la seguridad social para saber cuánto te quedará de pensión (hace falta iniciar sesión con certificado, Cl@ve, etc).
 - [Calculadora pago horas extra](https://www.ccoo-servicios.es/horas.html): Calculadora de CCOO para determinar cuánto valen las horas extras no pagadas que realizas.
 - [Calculadora de indemnización por despido](https://www.poderjudicial.es/cgpj/es/Servicios/Utilidades/Calculo-de-indemnizaciones-por-extincion-de-contrato-de-trabajo/): Calculadora del CGPJ para calcular tu posible indemización por despido.
-- [Simulador de la Declaración de la Renta](https://www2.agenciatributaria.gob.es/wlpl/PARE-RW22/OPEN/index.zul?TACCESO=COLAB&EJER=2022): Puedes simular tu Declaración de la Renta en la página oficial de al AEAT.
+- [Simulador de la Declaración de la Renta](https://www2.agenciatributaria.gob.es/wlpl/PARE-RW22/OPEN/index.zul?TACCESO=COLAB&EJER=2022): Puedes simular tu Declaración de la Renta en la página oficial de la AEAT.
 - [Calculadora del paro](https://sede.sepe.gob.es/dgsimulador/introSimulador.do): Calculadora del SEPE para saber a qué prestación por desempleo podrías acceder.
 
 <!--more-->
