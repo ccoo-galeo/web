@@ -1,0 +1,66 @@
+baseURL = "/"
+theme = "hugo-whisper-theme"
+languageCode = "es"
+title = "CCOO-Galeo"
+
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+
+# Controls how many words are printed in the content summary on the docs homepage.
+# See https://gohugo.io/content-management/summaries/
+summaryLength = 80
+
+[[menu.main]]
+    name = "Inicio"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Info"
+    url = "/info/"
+    weight = 2
+
+[[menu.main]]
+  name = "Sobre nosotros"
+  url = "/nosotros/"
+  weight = 3
+
+[[menu.main]]
+  name = "Contacto"
+  url = "/contacto/"
+  weight = 10
+
+[params]
+  homepage_button_link = '/info/'
+  homepage_button_text = 'Más información'
+  mainSections = ["info", "contacto", "nosotros"]
+
+  ## You can enable to add anchor links to header elements
+  # enable_anchor_link = true
+
+  [params.homepage_meta_tags]
+    meta_description = "Sitio web de CCOO-Galeo."
+    meta_og_title = "CCOO-Galeo"
+    meta_og_type = "website"
+    meta_og_url = "https://galeo-ccoo.org"
+    meta_og_image = "https://galeo-ccoo.org/images/screenshot.png"
+    meta_og_description = "Página de información de CCOO para Galeo"
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@ccoogaleo"
+    meta_twitter_creator = "@ccoogaleo"
+
+  [params.logo]
+      mobile = "https://galeo-ccoo.org/images/logo/logo.png"
+      standard  = "https://galeo-ccoo.org/images/logo/logo.png"
+
+  [params.footer]
+    copyright_text = 'Hecho con 💖 por tus compas de Galeo'
+
+[markup.goldmark.renderer]
+  unsafe = true

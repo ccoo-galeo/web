@@ -1,0 +1,16 @@
+/public/
+/resources/_gen/
+hugo_stats.json
+
+.DS_Store
+node_modules
+dist
+tmp
+
+# Executable may be added to repository
+hugo.exe
+hugo.linux
+hugo.darwin
+
+# Temporary lock file while building
+.hugo_build.lock
