@@ -11,7 +11,7 @@ Somos un grupo variado de compañeros/as de Galeo de distintos departamentos y c
 |     | Nombre              | Puesto             | Província |
 |-----|---------------------|--------------------|-----------|
 | 1.  | Santiago Espinosa   | Full Stack Eng.    | Madrid    |
-| 2.  | Pablo Alejos        | Full Stack Eng.    | Salamanca |
+| 2.  | Pablo Alejos        | Full Stack Eng.    | Burgos    |
 | 3.  | Jacobo Espinosa     | Data Engineer      | Madrid    |
 | 4.  | Nitin Kumar Lulla   | Data Engineer      | Tenerife  |
 | 5.  | Patricia Ramos      | Full Stack Eng.    | Madrid    |
