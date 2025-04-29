@@ -9,8 +9,8 @@ Recopilación de enlaces a documentos, reglamentos, normativas, etc. que te afec
 
 #### Legislación
 
-- [Estatuto de los Trabajadores](https://www.boe.es/biblioteca_juridica/abrir_pdf.php?id=PUB-DT-2024-139): es la norma de máximo rango que regula las relaciones laborales en España. Su última actualización fue en 2024.
-- [Convenio colectivo estatal de empresas de consultoría](https://www.boe.es/eli/es/res/2023/07/13/(5)): es el convenio actual de Galeo. La útima versión publicada es la número XVIII, en 2023.
+- [Estatuto de los Trabajadores](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430): es la norma de máximo rango que regula las relaciones laborales en España. Su última actualización fue en 2024.
+- [Convenio colectivo estatal de empresas de consultoría](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7766): es el convenio actual de Galeo. La útima versión publicada es la número XVIII, en 2023.
 - [Ley de trabajo a distancia](https://www.boe.es/eli/es/l/2021/07/09/10): Ley que regula el teletrabajo.
 - [Ley Infracciones y Sanciones en el orden social](https://www.boe.es/eli/es/rdlg/2000/08/04/5/con): Regula las infracciones en el ámbito laboral (y otros).
 - [Ley de Libertad Sindical](https://www.boe.es/eli/es/lo/1985/08/02/11/con): Es la ley que regula la actividad sindical, junto con el Estatuto de los Trabajadores.
