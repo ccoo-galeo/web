@@ -29,7 +29,7 @@ Acuerdos y legislación que te afectan sobre tus vacaciones, permisos y descanso
 
 - Debes contar con al menos 1 año de antigüedad para poder solicitarlo (Art 23 convenio).
 - Pueden ser **máximo de un mes una vez al año**, o **dos períodos de 15 días máximos** uno en cada semestre del año (Art 23 convenio).
-- La empresa puede negarse si en las mismas fechas hay otras 3 personas de tu departamento de permiso no retribuídos (Art 23 convenio).
+- La empresa puede negarse si en las mismas fechas ya hay 3 personas de permiso no retribuídos (Art 23 convenio).
 
 #### Descansos
 
