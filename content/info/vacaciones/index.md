@@ -9,19 +9,19 @@ Acuerdos y legislación que te afectan sobre tus vacaciones, permisos y descanso
 
 #### Vacaciones
 
-- Tienes mínimo **23 días laborables de vacaciones** (Art 21 convenio).
-- Se eligen de común acuerdo entre empresa y trabajador, **la empresa no puede imponerlas** (Art 38 ET).
-- Debes conocerlas al menos dos meses antes de que empiecen (Art 38 ET).
-- No pueden cambiarse por compensaciones económicas (Art 38 ET).
-- No pueden sancionarte sin vacaciones (Art 58 ET).
-- En Galeo se conceden también el 24 y el 31 de diciembre (Acuerdo pendiente de poner por escrito).
+- Según acuerdo con empresa, disponemos de **23 días laborables de vacaciones**, además del **Jueves Santo, Nochebuena y Nochevieja** y **dos viernes libres** adicionales (Long weekend). 
+- *Qué dice la normativa?*
+  - Tienes mínimo **23 días laborables de vacaciones** (Art 21 convenio).
+  - Se eligen de común acuerdo entre empresa y trabajador, **la empresa no puede imponerlas**, y debes conocerlas al menos dos meses antes de que empiecen (Art 38 ET).
+  - No pueden cambiarse por compensaciones económicas (Art 38 ET), ni pueden sancionarte sin vacaciones (Art 58 ET).
 
 #### Permisos retribuídos
 
 - **Matrimonio**: 15 días (Art 37 ET).
 - **Mudanza**: 1 día (Art 37 ET).
 - **Accidente/enfermedad de familiar**: 5 días laborables por accidente, enfermedad graves, hospitalización o intervención quirúrgica de tu pareja, familiares cercanos o convivientes que requieran cuidado (Art 37 ET).
-- **Fallecimiento**: 2 días por fallecimiento de tu pareja o parientes cercanos, **más 2 días** si necesitas desplazamiento (Art 37 ET).
+- **Fallecimiento parientes cercanos**: 4 días por fallecimiento de cónyuge, padres, madres o hijos/hijas.
+- **Fallecimiento otros parientes**: 2 días por fallecimiento de parientes hasta segundo grado de consanguinidad o afinidad, más 2 días si necesitas desplazamiento (Art 22 convenio y Art 37 ET).
 - **Exámenes prenatales, preparaciones al parto, etc**: el tiempo necesario (Art 37 ET).
 - **Elecciones**: el tiempo necesario (Art 37 ET).
 

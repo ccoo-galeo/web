@@ -9,12 +9,15 @@ Acuerdos y legislación que te afectan sobre el horario y las horas extraordinar
 
 #### Horario
 
-- La jornada ordinaria *máxima* de trabajo efectivo, en cómputo anual, es de 1.800 horas anuales (Art 20.1 convenio).
-- En Galeo, debemos estar disponibles entre las 9.00 y las 18.00 horas, salvo los viernes que terminamos a las 14h (Acuerdo pendiente de poner por escrito).
+- Según acuerdo con la empresa, la jornada media anual es de 37,5h semanales. Los horarios de entrada y salida son:
+  - **Lunes a jueves**: Entrada entre las 8:00 y las 9:30 h, y salida entre las 17:00 y las 18:30 h.
+  - **Viernes**: Jornada intensiva de 8:00 a 14:00 h, con flexibilidad para entrar hasta las 9:30 h, ajustando la hora de salida proporcionalmente.
+- *Qué dice el convenio? La jornada ordinaria máxima de trabajo efectivo, en cómputo anual, es de 1.800 horas anuales (Art 20.1)*
 
-#### Jornada intensiva
+#### Verano
 
-- El mes de **agosto se disfrutará de jornada intensiva**, que será máximo de 36 horas semanales salvo acuerdo de tus representantes con la empresa (Art 20.2 convenio).
+- Según acuerdo con la empresa, del **15 de julio al 15 de septiembre** disfrutamos de **jornada intensiva** (y reducida), siendo la hora de entrada las 8:00 y la de salida las 15:00h.
+- *Qué dice el convenio? Como mínimo en agosto se disfrutará de jornada intensiva, con un máximo de 36 horas semanales (salvo acuerdo de tus representantes) (Art 20.2)*.
 
 #### Horas extra
 
